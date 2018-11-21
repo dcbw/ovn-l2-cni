@@ -1,0 +1,195 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"path": "appengine",
+			"revision": ""
+		},
+		{
+			"path": "appengine_internal",
+			"revision": ""
+		},
+		{
+			"path": "appengine_internal/base",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "LvjTFR2Am01kquJNDnfISncPfRw=",
+			"path": "github.com/containernetworking/cni/pkg/skel",
+			"revision": "909fe7d10d98ab99b9990966796316249c83b263",
+			"revisionTime": "2017-08-31T02:32:53Z"
+		},
+		{
+			"checksumSHA1": "Sfdjk2zzDd0npAjZdULWjWoKVkQ=",
+			"path": "github.com/containernetworking/cni/pkg/types",
+			"revision": "a7885cb6f8ab03fba07852ded351e4f5e7a112bf",
+			"revisionTime": "2017-07-28T13:30:50Z"
+		},
+		{
+			"checksumSHA1": "lmLYXYR/twmBu+6U678QNF+BQlQ=",
+			"path": "github.com/containernetworking/cni/pkg/types/020",
+			"revision": "a7885cb6f8ab03fba07852ded351e4f5e7a112bf",
+			"revisionTime": "2017-07-28T13:30:50Z"
+		},
+		{
+			"checksumSHA1": "r6qX7lyz4pweijiXjWMcxvm4wQQ=",
+			"path": "github.com/containernetworking/cni/pkg/types/current",
+			"revision": "a7885cb6f8ab03fba07852ded351e4f5e7a112bf",
+			"revisionTime": "2017-07-28T13:30:50Z"
+		},
+		{
+			"checksumSHA1": "Y9KLxL9fFDnFHaDGOUfDkcbyV0U=",
+			"path": "github.com/containernetworking/cni/pkg/version",
+			"revision": "a7885cb6f8ab03fba07852ded351e4f5e7a112bf",
+			"revisionTime": "2017-07-28T13:30:50Z"
+		},
+		{
+			"checksumSHA1": "fou5ySWGlDUCfgIecM1CFpO47nQ=",
+			"path": "github.com/containernetworking/plugins/pkg/ip",
+			"revision": "e256564546e8d1ca8a36911f8445c11929043221",
+			"revisionTime": "2017-09-13T09:41:14Z"
+		},
+		{
+			"checksumSHA1": "umfzSifCgODa2RhhkS8/cjw0WjU=",
+			"path": "github.com/containernetworking/plugins/pkg/ns",
+			"revision": "03e316b07b52997f6a7bf85c11b89b8cb713af36",
+			"revisionTime": "2017-12-06T17:21:47Z"
+		},
+		{
+			"checksumSHA1": "rUAk+nce6eDIWtYo/QYIoqlTfrY=",
+			"path": "github.com/containernetworking/plugins/pkg/utils/hwaddr",
+			"revision": "03e316b07b52997f6a7bf85c11b89b8cb713af36",
+			"revisionTime": "2017-12-06T17:21:47Z"
+		},
+		{
+			"checksumSHA1": "RM7wQmNoUSB93ogKxdpA4265++Y=",
+			"path": "github.com/coreos/go-iptables/iptables",
+			"revision": "17b936e6ccb6f6e424f7d89c614164e796df1661",
+			"revisionTime": "2017-09-15T11:44:21Z"
+		},
+		{
+			"checksumSHA1": "hgZRPf8H4MwuMeBvwfUBUL6klcw=",
+			"path": "github.com/openshift/origin/pkg/util/netutils",
+			"revision": "6dc51d9f9ba52600fe01b581c6f082b75af4dd0f",
+			"revisionTime": "2018-01-04T21:32:13Z"
+		},
+		{
+			"checksumSHA1": "QptO0AepiRNzesHimvUfeXmJp/c=",
+			"path": "github.com/urfave/cli",
+			"revision": "39908eb08fee7c10d842622a114a5c133fb0a3c6",
+			"revisionTime": "2017-12-12T16:34:29Z"
+		},
+		{
+			"checksumSHA1": "DSXZnN+OjzFCR1qoAo49MAfaVgI=",
+			"path": "github.com/vishvananda/netlink",
+			"revision": "933b978eae8c18daa1077a0eb7186b689cd9f82d",
+			"revisionTime": "2017-09-02T20:36:53Z"
+		},
+		{
+			"checksumSHA1": "sCVVNugUvrGiFLA0nBNcWHoEhRI=",
+			"path": "github.com/vishvananda/netlink/nl",
+			"revision": "f5a6f697a596c788d474984a38a0ac4ba0719e93",
+			"revisionTime": "2017-07-24T20:03:20Z"
+		},
+		{
+			"checksumSHA1": "YDN9yoXZ/KBWqILw9PCNtd/SRAI=",
+			"path": "github.com/vishvananda/netns",
+			"revision": "86bef332bfc3b59b7624a600bd53009ce91a9829",
+			"revisionTime": "2017-07-07T00:42:18Z"
+		},
+		{
+			"checksumSHA1": "QoM8iwt2FVbTHR+Lav3dXmEu/7o=",
+			"path": "google.golang.org/appengine",
+			"revision": "5bee14b453b4c71be47ec1781b0fa61c2ea182db",
+			"revisionTime": "2017-12-12T22:30:47Z"
+		},
+		{
+			"checksumSHA1": "NA+ebc/RfKLZ+wxPs3lRn94H3gA=",
+			"path": "google.golang.org/appengine/internal",
+			"revision": "5bee14b453b4c71be47ec1781b0fa61c2ea182db",
+			"revisionTime": "2017-12-12T22:30:47Z"
+		},
+		{
+			"checksumSHA1": "x6Thdfyasqd68dWZWqzWWeIfAfI=",
+			"path": "google.golang.org/appengine/internal/app_identity",
+			"revision": "5bee14b453b4c71be47ec1781b0fa61c2ea182db",
+			"revisionTime": "2017-12-12T22:30:47Z"
+		},
+		{
+			"checksumSHA1": "TsNO8P0xUlLNyh3Ic/tzSp/fDWM=",
+			"path": "google.golang.org/appengine/internal/base",
+			"revision": "5bee14b453b4c71be47ec1781b0fa61c2ea182db",
+			"revisionTime": "2017-12-12T22:30:47Z"
+		},
+		{
+			"checksumSHA1": "5QsV5oLGSfKZqTCVXP6NRz5T4Tw=",
+			"path": "google.golang.org/appengine/internal/datastore",
+			"revision": "5bee14b453b4c71be47ec1781b0fa61c2ea182db",
+			"revisionTime": "2017-12-12T22:30:47Z"
+		},
+		{
+			"checksumSHA1": "Gep2T9zmVYV8qZfK2gu3zrmG6QE=",
+			"path": "google.golang.org/appengine/internal/log",
+			"revision": "5bee14b453b4c71be47ec1781b0fa61c2ea182db",
+			"revisionTime": "2017-12-12T22:30:47Z"
+		},
+		{
+			"checksumSHA1": "eLZVX1EHLclFtQnjDIszsdyWRHo=",
+			"path": "google.golang.org/appengine/internal/modules",
+			"revision": "5bee14b453b4c71be47ec1781b0fa61c2ea182db",
+			"revisionTime": "2017-12-12T22:30:47Z"
+		},
+		{
+			"checksumSHA1": "a1XY7rz3BieOVqVI2Et6rKiwQCk=",
+			"path": "google.golang.org/appengine/internal/remote_api",
+			"revision": "5bee14b453b4c71be47ec1781b0fa61c2ea182db",
+			"revisionTime": "2017-12-12T22:30:47Z"
+		},
+		{
+			"checksumSHA1": "7E+wlsgFE3g4oZj0e3y7YPCjfbs=",
+			"path": "gopkg.in/gcfg.v1",
+			"revision": "27e4946190b4a327b539185f2b5b1f7c84730728",
+			"revisionTime": "2016-08-14T19:51:52Z"
+		},
+		{
+			"checksumSHA1": "LExJ7qoRMacllJ0cGb0mYpK1b/s=",
+			"path": "gopkg.in/gcfg.v1/scanner",
+			"revision": "27e4946190b4a327b539185f2b5b1f7c84730728",
+			"revisionTime": "2016-08-14T19:51:52Z"
+		},
+		{
+			"checksumSHA1": "9agO8MliOVQGjMcOIV7g7LPHeFY=",
+			"path": "gopkg.in/gcfg.v1/token",
+			"revision": "27e4946190b4a327b539185f2b5b1f7c84730728",
+			"revisionTime": "2016-08-14T19:51:52Z"
+		},
+		{
+			"checksumSHA1": "A2FpDz2muvMPC91Ec63wmUPfxFE=",
+			"path": "gopkg.in/gcfg.v1/types",
+			"revision": "27e4946190b4a327b539185f2b5b1f7c84730728",
+			"revisionTime": "2016-08-14T19:51:52Z"
+		},
+		{
+			"checksumSHA1": "ALQFMX3kmJkyB/8VEzVnGZG1H4A=",
+			"path": "gopkg.in/warnings.v0",
+			"revision": "8a331561fe74dadba6edfc59f3be66c22c3b065d",
+			"revisionTime": "2016-08-15T18:11:09Z"
+		},
+		{
+			"path": "k8s.io/api/core/v1",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "V+yTFCwR2itFFupPP8aB13A33+M=",
+			"path": "k8s.io/client-go/pkg",
+			"revision": "18ec62fe90328a54f7ab513d5fedf3e8650c98b5",
+			"revisionTime": "2018-01-04T01:47:05Z"
+		},
+		{
+			"path": "k8s.io/client-go/pkg/apis/networking/v1",
+			"revision": ""
+		}
+	],
+	"rootPath": "github.com/openvswitch/ovn-kubernetes/go-controller"
+}
